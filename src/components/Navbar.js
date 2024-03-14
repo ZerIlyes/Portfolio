@@ -39,8 +39,12 @@ const Navbar = () => {
       {/* Mobile menu */}
       <div className="hidden mobile-menu">
         <ul>
-          <li><a href="#projets" className="block text-sm px-2 py-4 hover:bg-green-500 transition duration-300">Projets</a></li>
-          <li><a href="#competences" className="block text-sm px-2 py-4 hover:bg-green-500 transition duration-300">Compétences</a></li>
+          <li>
+            {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
+            <a href="#projets" className="block text-sm px-2 py-4 hover:bg-green-500 transition duration-300">Projets</a></li>
+          <li>
+            {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
+            <a href="#competences" className="block text-sm px-2 py-4 hover:bg-green-500 transition duration-300">Compétences</a></li>
         </ul>
       </div>
     </nav>
