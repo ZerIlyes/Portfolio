@@ -1,0 +1,33 @@
+.skills-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px; /* Ajustez selon l'espacement souhaité avec la section précédente */
+    margin-bottom: 50px; /* Ajustez selon l'espacement souhaité avec la section suivante */
+  }
+  
+  .skills-title {
+    font-size: 2em; /* Taille du titre */
+    font-weight: bold; /* Mettre le titre en gras */
+    margin-bottom: 30px; /* Espace entre le titre et les compétences */
+  }
+  
+  .skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px; /* Ajustez l'espacement entre les compétences */
+  }
+  
+  .skill-card {
+    padding: 10px 20px;
+    border: 1px solid #ddd;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  }
+  
+  .skill-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Ombre légère pour l'effet de survol */
+  }
+  
+  
