@@ -8,7 +8,7 @@ const Navbar = () => {
           <div className="flex space-x-7">
             {/* Logo or Brand name */}
             <div>
-              <a href="#" className="flex items-center py-4 px-2">
+              <a href="#projets" className="flex items-center py-4 px-2">
                 <span className="font-semibold text-gray-500 text-lg">Z.I</span>
               </a>
             </div>

@@ -78,7 +78,8 @@ const HeroSection = () => {
         animate={{ x: 0, opacity: 1 }}
         transition={{ delay: 1.2, duration: 0.8 }}
       >
-        <img src={process.env.PUBLIC_URL + '/image.svg'} alt="Description de l'image" style={{ maxWidth: '50%', height: 'auto' }} />
+        <img src={process.env.PUBLIC_URL + '/image.svg'}   alt=""
+             style={{ maxWidth: '50%', height: 'auto' }} />
       </motion.div>
     </div>
   );
