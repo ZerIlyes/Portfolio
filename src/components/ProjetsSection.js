@@ -6,7 +6,7 @@ const projects = [
   {
     id: 1,
     title: 'Site Événementiel Association',
-    description: 'Développement d\'un site web événementiel pour une association en utilisant MySQL, PHP et JavaScript.',
+    description: 'Développement dun site web événementiel pour une association en utilisant MySQL, PHP et JavaScript.',
     stack: ['MySQL', 'PHP', 'JavaScript'],
     githubLink: 'https://github.com/ZerIlyes/Sae-Evenement_Maths',    
     // image: 'path-to-image',
