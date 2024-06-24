@@ -15,6 +15,9 @@ const Intro = () => {
                     <p className="card-text">
                         Pour la suite de mon parcours, je souhaite continuer mes études à l'École d'Ingénieurs ESIEE en apprentissage. Mon objectif est de me spécialiser dans le développement web, un domaine qui m'attire particulièrement pour ses possibilités créatives et son dynamisme.
                     </p>
+                    <p className="card-text">
+                        Pendant mon stage de BUT 3 en tant que développeur PHP, j'ai acquis une expérience approfondie en développement web et en résolution d'issues. J'ai été impliqué dans le développement de nouvelles fonctionnalités, l'automatisation de processus internes, et la correction de bugs complexes. J'ai travaillé en étroite collaboration avec l'équipe de développement, ce qui m'a permis de développer mes compétences techniques et de renforcer ma capacité à résoudre des problèmes de manière efficace. Mon stage se termine le 30 juillet, et j'ai déjà réalisé un grand nombre de tâches qui ont contribué de manière significative aux projets de l'entreprise.
+                    </p>
                 </div>
             </div>
         </div>
